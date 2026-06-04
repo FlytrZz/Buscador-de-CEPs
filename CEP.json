@@ -1,0 +1,32 @@
+[
+  {
+    "CEP": "01001-000",
+    "Logradouro": "Praça da Sé",
+    "Bairro": "Sé",
+    "Local": "São Paulo",
+    "UF": "SP",
+    "Estado": "São Paulo",
+    "Regiao": "Sudeste",
+    "DDD": "11"
+  },
+  {
+    "CEP": "20040-002",
+    "Logradouro": "Avenida Rio Branco",
+    "Bairro": "Centro",
+    "Local": "Rio de Janeiro",
+    "UF": "RJ",
+    "Estado": "Rio de Janeiro",
+    "Regiao": "Sudeste",
+    "DDD": "21"
+  },
+  {
+    "CEP": "60060-120",
+    "Logradouro": "Rua Vinte e Cinco de Março",
+    "Bairro": "Centro",
+    "Local": "Fortaleza",
+    "UF": "CE",
+    "Estado": "Ceará",
+    "Regiao": "Nordeste",
+    "DDD": "85"
+  }
+]
